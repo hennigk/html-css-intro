@@ -42,3 +42,21 @@ nav{
     margin-bottom: 10px;
 }
 
+
+td {
+   border-style: solid; 
+   border-width: thin;
+    padding: 10px;
+}
+
+th{
+    font-weight: bold;
+    border-style: solid; 
+    border-width: thin;
+    padding: 10px;
+}
+
+table{
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
